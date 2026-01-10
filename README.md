@@ -12,4 +12,5 @@ This repository consists of leetcode problems solution.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->

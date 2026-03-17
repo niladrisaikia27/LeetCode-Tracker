@@ -17,6 +17,7 @@ This repository consists of leetcode problems solution.
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0125-valid-palindrome) |
 ## String
 |  |
@@ -37,6 +38,7 @@ This repository consists of leetcode problems solution.
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search

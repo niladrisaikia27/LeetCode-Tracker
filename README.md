@@ -57,6 +57,7 @@ This repository consists of leetcode problems solution.
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2906-construct-product-matrix](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2906-construct-product-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -79,6 +80,7 @@ This repository consists of leetcode problems solution.
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2906-construct-product-matrix](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2906-construct-product-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -102,4 +104,5 @@ This repository consists of leetcode problems solution.
 | ------- |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2906-construct-product-matrix](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2906-construct-product-matrix) |
 <!---LeetCode Topics End-->

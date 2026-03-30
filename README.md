@@ -29,6 +29,7 @@ This repository consists of leetcode problems solution.
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0125-valid-palindrome) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -82,6 +83,7 @@ This repository consists of leetcode problems solution.
 | [0075-sort-colors](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0169-majority-element) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -98,6 +100,7 @@ This repository consists of leetcode problems solution.
 | ------- |
 | [0001-two-sum](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0169-majority-element) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Divide and Conquer
 |  |

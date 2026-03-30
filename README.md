@@ -29,6 +29,7 @@ This repository consists of leetcode problems solution.
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0125-valid-palindrome) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Dynamic Programming
 |  |

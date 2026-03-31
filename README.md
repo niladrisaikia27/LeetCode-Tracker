@@ -31,6 +31,7 @@ This repository consists of leetcode problems solution.
 | [0125-valid-palindrome](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0125-valid-palindrome) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -75,6 +76,7 @@ This repository consists of leetcode problems solution.
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -134,4 +136,8 @@ This repository consists of leetcode problems solution.
 |  |
 | ------- |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+## String Matching
+|  |
+| ------- |
+| [3474-lexicographically-smallest-generated-string](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3474-lexicographically-smallest-generated-string) |
 <!---LeetCode Topics End-->

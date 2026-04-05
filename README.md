@@ -31,6 +31,7 @@ This repository consists of leetcode problems solution.
 | [0125-valid-palindrome](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0125-valid-palindrome) |
 | [0657-robot-return-to-origin](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0657-robot-return-to-origin) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2573-find-the-string-with-lcp](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3474-lexicographically-smallest-generated-string) |
@@ -40,6 +41,7 @@ This repository consists of leetcode problems solution.
 | [0053-maximum-subarray](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0509-fibonacci-number) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [2573-find-the-string-with-lcp](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2573-find-the-string-with-lcp) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Recursion
@@ -66,6 +68,7 @@ This repository consists of leetcode problems solution.
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2573-find-the-string-with-lcp](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -84,6 +87,7 @@ This repository consists of leetcode problems solution.
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2573-find-the-string-with-lcp](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2573-find-the-string-with-lcp) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Sliding Window
 |  |
@@ -131,6 +135,7 @@ This repository consists of leetcode problems solution.
 | ------- |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2573-find-the-string-with-lcp](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -158,4 +163,8 @@ This repository consists of leetcode problems solution.
 |  |
 | ------- |
 | [2751-robot-collisions](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2751-robot-collisions) |
+## Union-Find
+|  |
+| ------- |
+| [2573-find-the-string-with-lcp](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2573-find-the-string-with-lcp) |
 <!---LeetCode Topics End-->

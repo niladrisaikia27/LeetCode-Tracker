@@ -64,6 +64,7 @@ This repository consists of leetcode problems solution.
 | [0189-rotate-array](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0485-max-consecutive-ones) |
+| [0874-walking-robot-simulation](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0874-walking-robot-simulation) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -119,6 +120,7 @@ This repository consists of leetcode problems solution.
 | ------- |
 | [0001-two-sum](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0169-majority-element) |
+| [0874-walking-robot-simulation](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0874-walking-robot-simulation) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Divide and Conquer
@@ -152,6 +154,7 @@ This repository consists of leetcode problems solution.
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0874-walking-robot-simulation) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2946-matrix-similarity-after-cyclic-shifts) |

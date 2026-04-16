@@ -81,6 +81,7 @@ This repository consists of leetcode problems solution.
 | [2906-construct-product-matrix](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3488-closest-equal-element-queries](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3488-closest-equal-element-queries) |
 | [3546-equal-sum-grid-partition-i](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -93,6 +94,7 @@ This repository consists of leetcode problems solution.
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3488-closest-equal-element-queries](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3488-closest-equal-element-queries) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Greedy
 |  |
@@ -133,6 +135,7 @@ This repository consists of leetcode problems solution.
 | [0169-majority-element](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0169-majority-element) |
 | [0874-walking-robot-simulation](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0874-walking-robot-simulation) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3488-closest-equal-element-queries](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Divide and Conquer

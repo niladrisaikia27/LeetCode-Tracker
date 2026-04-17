@@ -91,6 +91,7 @@ This repository consists of leetcode problems solution.
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Binary Search
 |  |
@@ -140,6 +141,7 @@ This repository consists of leetcode problems solution.
 | [3488-closest-equal-element-queries](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Divide and Conquer
 |  |

@@ -17,6 +17,7 @@ This repository consists of leetcode problems solution.
 | [0509-fibonacci-number](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0509-fibonacci-number) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3783-mirror-distance-of-an-integer](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3783-mirror-distance-of-an-integer) |
 ## Two Pointers
 |  |
 | ------- |

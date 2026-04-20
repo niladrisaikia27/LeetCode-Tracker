@@ -78,6 +78,7 @@ This repository consists of leetcode problems solution.
 | [1848-minimum-distance-to-the-target-element](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2463-minimum-total-distance-traveled](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2573-find-the-string-with-lcp) |
@@ -107,6 +108,7 @@ This repository consists of leetcode problems solution.
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2573-find-the-string-with-lcp](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2573-find-the-string-with-lcp) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Sliding Window

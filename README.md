@@ -73,6 +73,7 @@ This repository consists of leetcode problems solution.
 | [0485-max-consecutive-ones](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0485-max-consecutive-ones) |
 | [0874-walking-robot-simulation](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0874-walking-robot-simulation) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -199,9 +200,14 @@ This repository consists of leetcode problems solution.
 ## Union-Find
 |  |
 | ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2573-find-the-string-with-lcp) |
 ## Design
 |  |
 | ------- |
 | [2069-walking-robot-simulation-ii](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2069-walking-robot-simulation-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 <!---LeetCode Topics End-->

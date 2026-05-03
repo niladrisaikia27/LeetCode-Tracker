@@ -36,6 +36,7 @@ This repository consists of leetcode problems solution.
 | ------- |
 | [0125-valid-palindrome](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0125-valid-palindrome) |
 | [0657-robot-return-to-origin](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0657-robot-return-to-origin) |
+| [0796-rotate-string](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0796-rotate-string) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -220,6 +221,7 @@ This repository consists of leetcode problems solution.
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0796-rotate-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Stack
 |  |

@@ -24,6 +24,7 @@ This repository consists of leetcode problems solution.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0061-rotate-list](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0189-rotate-array) |
@@ -257,4 +258,8 @@ This repository consists of leetcode problems solution.
 | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1559-detect-cycles-in-2d-grid) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->

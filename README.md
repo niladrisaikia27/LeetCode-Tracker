@@ -78,6 +78,7 @@ This repository consists of leetcode problems solution.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0283-move-zeroes) |
@@ -121,6 +122,7 @@ This repository consists of leetcode problems solution.
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3464-maximize-the-distance-between-points-on-a-square) |

@@ -102,6 +102,7 @@ This repository consists of leetcode problems solution.
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2573-find-the-string-with-lcp) |
 | [2615-sum-of-distances](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2615-sum-of-distances) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2751-robot-collisions](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -167,6 +168,7 @@ This repository consists of leetcode problems solution.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0136-single-number) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -174,6 +176,7 @@ This repository consists of leetcode problems solution.
 | [0169-majority-element](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0169-majority-element) |
 | [0874-walking-robot-simulation](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0874-walking-robot-simulation) |
 | [2615-sum-of-distances](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2615-sum-of-distances) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3488-closest-equal-element-queries](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3548-equal-sum-grid-partition-ii) |

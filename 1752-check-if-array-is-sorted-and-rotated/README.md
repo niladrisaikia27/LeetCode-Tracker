@@ -38,3 +38,5 @@ You can rotate the array by x = 0 positions (i.e. no rotation) to make nums.
 	<li><code>1 &lt;= nums.length &lt;= 100</code></li>
 	<li><code>1 &lt;= nums[i] &lt;= 100</code></li>
 </ul>
+
+<p><strong>No Of Times Revised: 1</strong></p>

@@ -15,6 +15,7 @@ This repository consists of leetcode problems solution.
 | [0009-palindrome-number](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0509-fibonacci-number) |
+| [0788-rotated-digits](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0788-rotated-digits) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -56,6 +57,7 @@ This repository consists of leetcode problems solution.
 | [0053-maximum-subarray](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0509-fibonacci-number) |
+| [0788-rotated-digits](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0788-rotated-digits) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2463-minimum-total-distance-traveled](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2463-minimum-total-distance-traveled) |

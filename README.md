@@ -102,6 +102,7 @@ This repository consists of leetcode problems solution.
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2126-destroying-asteroids](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2126-destroying-asteroids) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2463-minimum-total-distance-traveled) |
@@ -144,6 +145,7 @@ This repository consists of leetcode problems solution.
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2126-destroying-asteroids](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2126-destroying-asteroids) |
 | [2573-find-the-string-with-lcp](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2573-find-the-string-with-lcp) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Sliding Window
@@ -157,6 +159,7 @@ This repository consists of leetcode problems solution.
 | [0169-majority-element](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0169-majority-element) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2126-destroying-asteroids](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2126-destroying-asteroids) |
 | [2463-minimum-total-distance-traveled](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |

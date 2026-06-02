@@ -33,6 +33,7 @@ This repository consists of leetcode problems solution.
 | [0283-move-zeroes](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0283-move-zeroes) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3643-flip-square-submatrix-vertically) |
 ## String
 |  |
@@ -123,6 +124,7 @@ This repository consists of leetcode problems solution.
 | [3546-equal-sum-grid-partition-i](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -140,6 +142,7 @@ This repository consists of leetcode problems solution.
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3488-closest-equal-element-queries) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Greedy
 |  |
@@ -150,6 +153,7 @@ This repository consists of leetcode problems solution.
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2573-find-the-string-with-lcp](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2573-find-the-string-with-lcp) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -168,6 +172,7 @@ This repository consists of leetcode problems solution.
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Prefix Sum
 |  |

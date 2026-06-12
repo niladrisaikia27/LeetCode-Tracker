@@ -86,6 +86,7 @@ This repository consists of leetcode problems solution.
 | [0001-two-sum](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0031-next-permutation) |
+| [0046-permutations](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -316,4 +317,8 @@ This repository consists of leetcode problems solution.
 |  |
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2196-create-binary-tree-from-descriptions) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->

@@ -5,7 +5,7 @@ private:
             ans.push_back(nums);
             return;
         }
-        unordered_set<int> freq;
+        set<int> freq;
         for(int i=index; i<nums.size(); i++){
             if(freq.count(nums[i])){ 
                 continue;
@@ -17,7 +17,6 @@ private:
             swap(nums[index], nums[i]);
         }
     }
-
 public:
     vector<vector<int>> permuteUnique(vector<int>& nums) {
         vector<vector<int>> ans;

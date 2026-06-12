@@ -1,12 +1,13 @@
 class Solution {
 private:
     void recursivePermute(int index, vector<int>& nums, vector<vector<int>>& ans){
-        if(index == nums.size()){
+        int n = nums.size();
+        if(index == n){
             ans.push_back(nums);
             return;
         }
         set<int> freq;
-        for(int i=index; i<nums.size(); i++){
+        for(int i=index; i<n; i++){
             if(freq.count(nums[i])){ 
                 continue;
             }
@@ -17,6 +18,7 @@ private:
             swap(nums[index], nums[i]);
         }
     }
+
 public:
     vector<vector<int>> permuteUnique(vector<int>& nums) {
         vector<vector<int>> ans;

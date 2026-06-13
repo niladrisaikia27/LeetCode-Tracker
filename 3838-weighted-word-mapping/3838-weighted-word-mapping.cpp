@@ -1,7 +1,7 @@
 class Solution {
 public:
     string mapWordWeights(vector<string>& words, vector<int>& weights) {
-        string result = "";
+        string result;
         
         for (const string& word : words) {
             int currentWeight = 0;

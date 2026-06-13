@@ -9,7 +9,7 @@ public:
                 currentWeight += weights[c - 'a'];
             }
             int modVal = currentWeight % 26;
-            result += (char)('z' - modVal);
+            result.push_back(char('z' - modVal));
         }
         return result;
     }

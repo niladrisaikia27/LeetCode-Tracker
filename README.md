@@ -94,6 +94,7 @@ This repository consists of leetcode problems solution.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -209,6 +210,7 @@ This repository consists of leetcode problems solution.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0169-majority-element) |
 | [0874-walking-robot-simulation](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0874-walking-robot-simulation) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -282,6 +284,7 @@ This repository consists of leetcode problems solution.
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0128-longest-consecutive-sequence) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1722-minimize-hamming-distance-after-swap-operations) |

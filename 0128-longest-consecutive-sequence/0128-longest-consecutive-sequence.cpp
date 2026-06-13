@@ -19,7 +19,6 @@ public:
             }
         
             else{
-                maxL = max(count, maxL);
                 count = 1;
             }
         }

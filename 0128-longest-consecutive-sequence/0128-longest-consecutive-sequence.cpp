@@ -10,8 +10,8 @@ public:
                 int count = 1;
 
                 while(numSet.find(currentNum + 1) != numSet.end()){
-                    currentNum += 1;
-                    count += 1;
+                    currentNum++;
+                    count++;
                 }
 
                 maxCount = max(count, maxCount);

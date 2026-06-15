@@ -90,6 +90,7 @@ This repository consists of leetcode problems solution.
 | [0046-permutations](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -210,6 +211,7 @@ This repository consists of leetcode problems solution.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0169-majority-element) |
 | [0874-walking-robot-simulation](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0874-walking-robot-simulation) |
@@ -240,6 +242,7 @@ This repository consists of leetcode problems solution.
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0073-set-matrix-zeroes) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1594-maximum-non-negative-product-in-a-matrix) |

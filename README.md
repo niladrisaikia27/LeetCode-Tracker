@@ -13,6 +13,7 @@ This repository consists of leetcode problems solution.
 | ------- |
 | [0007-reverse-integer](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0788-rotated-digits) |
@@ -89,6 +90,7 @@ This repository consists of leetcode problems solution.
 | [0031-next-permutation](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0075-sort-colors) |
@@ -242,6 +244,7 @@ This repository consists of leetcode problems solution.
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0073-set-matrix-zeroes) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1559-detect-cycles-in-2d-grid) |

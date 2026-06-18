@@ -3,7 +3,7 @@ public:
     void rotate(vector<vector<int>>& matrix) {
         int m = matrix.size();
 
-        vector<vector<int>> copyMatrix = matrix;
+        vector<vector<int>> copyMatrix(m, vector<int>(m, 0));
 
         for(int i=0; i<m; i++){
             int k = m-1;

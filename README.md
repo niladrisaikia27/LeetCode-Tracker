@@ -92,6 +92,7 @@ This repository consists of leetcode problems solution.
 | [0047-permutations-ii](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -245,6 +246,7 @@ This repository consists of leetcode problems solution.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0073-set-matrix-zeroes) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -269,6 +271,7 @@ This repository consists of leetcode problems solution.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0874-walking-robot-simulation) |
 | [2069-walking-robot-simulation-ii](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2069-walking-robot-simulation-ii) |

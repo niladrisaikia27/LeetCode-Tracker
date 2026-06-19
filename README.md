@@ -107,6 +107,7 @@ This repository consists of leetcode problems solution.
 | [0189-rotate-array](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0560-subarray-sum-equals-k) |
 | [0874-walking-robot-simulation](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0874-walking-robot-simulation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -199,6 +200,7 @@ This repository consists of leetcode problems solution.
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0560-subarray-sum-equals-k) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2615-sum-of-distances](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2906-construct-product-matrix) |
@@ -217,6 +219,7 @@ This repository consists of leetcode problems solution.
 | [0073-set-matrix-zeroes](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0560-subarray-sum-equals-k) |
 | [0874-walking-robot-simulation](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0874-walking-robot-simulation) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2615-sum-of-distances](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2615-sum-of-distances) |

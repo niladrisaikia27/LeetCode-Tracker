@@ -107,6 +107,7 @@ This repository consists of leetcode problems solution.
 | [0169-majority-element](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0560-subarray-sum-equals-k) |
@@ -188,6 +189,7 @@ This repository consists of leetcode problems solution.
 | [0047-permutations-ii](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0229-majority-element-ii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2126-destroying-asteroids) |
@@ -221,6 +223,7 @@ This repository consists of leetcode problems solution.
 | [0073-set-matrix-zeroes](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0560-subarray-sum-equals-k) |
 | [0874-walking-robot-simulation](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0874-walking-robot-simulation) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -246,6 +249,7 @@ This repository consists of leetcode problems solution.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0229-majority-element-ii) |
 | [2833-furthest-point-from-origin](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2833-furthest-point-from-origin) |
 ## Matrix
 |  |

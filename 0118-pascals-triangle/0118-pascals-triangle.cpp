@@ -4,13 +4,9 @@ public:
         vector<vector<int>> ans;
 
         for(int i=0; i<numRows; i++){
-            vector<int> tempList;
-            int res = 1;
-            tempList.push_back(res);
-            for(int j=0; j<i; j++){
-                res = res * (i - j);
-                res = res/(j+1); 
-                tempList.push_back(res);
+            vector<int> tempList(i+1, 1);
+            for(int j=1; j<i; j++){
+                tempList[j] = ans[i-1][j-1] + ans[i-1][j];
             }
             ans.push_back(tempList);
         }

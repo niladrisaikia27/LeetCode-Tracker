@@ -5,18 +5,19 @@ public:
         if(n < 3){
             return {};
         }
-        
-        vector<vector<int>> result;
+
         sort(nums.begin(), nums.end());
 
+        if(nums[0] > 0) return {};
+        
+        vector<vector<int>> result;
+        
         for(int i=0; i<n-2; i++){
             if(i>0 && nums[i] == nums[i-1]){
                 continue;
             }
 
             if(nums[i] > 0) break;
-            if(nums[i] + nums[i+1] + nums[i+2] > 0) break;
-            if(nums[i] + nums[n-2] + nums[n-1] < 0) continue;
 
             int left = i+1;
             int right = n-1;

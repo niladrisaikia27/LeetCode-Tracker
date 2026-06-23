@@ -11,6 +11,9 @@ public:
                 continue;
             }
 
+            if(nums[i] > 0) break;
+            if(nums[i] + nums[i+1] + nums[i+2] > 0) break;
+
             int left = i+1;
             int right = n-1;
 

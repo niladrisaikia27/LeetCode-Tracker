@@ -13,6 +13,7 @@ public:
 
             if(nums[i] > 0) break;
             if(nums[i] + nums[i+1] + nums[i+2] > 0) break;
+            if(nums[i] + nums[n-2] + nums[n-1] < 0) continue;
 
             int left = i+1;
             int right = n-1;

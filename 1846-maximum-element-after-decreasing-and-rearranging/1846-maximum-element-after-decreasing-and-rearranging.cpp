@@ -6,7 +6,9 @@ public:
         arr[0] = 1;
         // Condition 2: Maximize each subsequent element based on the previous one
         for (int i = 1; i < arr.size(); ++i) {
-            arr[i] = min(arr[i], arr[i - 1] + 1);
+            if(arr[i] > arr[i-1] + 1){
+                arr[i] = arr[i-1] + 1;
+            }
         }
         // The last element will hold the maximum possible value
         return arr.back();

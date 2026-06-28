@@ -122,6 +122,7 @@ This repository consists of leetcode problems solution.
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -178,6 +179,7 @@ This repository consists of leetcode problems solution.
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -199,6 +201,7 @@ This repository consists of leetcode problems solution.
 | [0169-majority-element](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0229-majority-element-ii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |

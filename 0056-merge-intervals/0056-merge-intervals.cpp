@@ -1,50 +1,28 @@
 class Solution {
 public:
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
-       if (intervals.empty()) return {};
+        if (intervals.empty()) return {};
+        bool mergedAny = true;
 
-        // Step 1: Find the maximum start coordinate to size our bucket array
-        int max_val = 0;
-        for (const auto& inv : intervals) {
-            max_val = max(max_val, inv[0]);
-        }
+        while(mergedAny){
+            mergedAny = false;
+            for(int i=0; i<intervals.size(); i++){
+                for(int j=i+1; j<intervals.size(); j++){
+                    //check if first element of j is smaller than second element of i
+                    if(max(intervals[i][0], intervals[j][0]) <= min(intervals[i][1], intervals[j][1])){
+                        //merge the intervals into i
+                        intervals[i][0] = min(intervals[i][0], intervals[j][0]);
+                        intervals[i][1] = max(intervals[i][1], intervals[j][1]);
 
-        // Step 2: Track the maximum end coordinate achieved by any interval starting at index i
-        vector<int> max_end(max_val + 1, -1);
-        for (const auto& inv : intervals) {
-            max_end[inv[0]] = max(max_end[inv[0]], inv[1]);
-        }
-
-        vector<vector<int>> merged;
-        int current_start = -1;
-        int current_end = -1;
-
-        // Step 3: Traverse the bucket array to merge linearly
-        for (int i = 0; i <= max_val; ++i) {
-            if (max_end[i] == -1) continue; // No interval starts at coordinate i
-
-            // If it's the first interval we're processing
-            if (current_start == -1) {
-                current_start = i;
-                current_end = max_end[i];
-            } 
-            // If the current start point is within the range of our active interval, merge
-            else if (i <= current_end) {
-                current_end = max(current_end, max_end[i]);
-            } 
-            // Disjoint interval found: push the old one and reset tracking variables
-            else {
-                merged.push_back({current_start, current_end});
-                current_start = i;
-                current_end = max_end[i];
+                        //delete the j interval
+                        intervals.erase(intervals.begin() + j);
+                        mergedAny =  true;
+                        break;                  
+                    }
+                }
+                if(mergedAny)   break;
             }
         }
-
-        // Push the final tracking interval into the result
-        if (current_start != -1) {
-            merged.push_back({current_start, current_end});
-        }
-
-        return merged;
+        return intervals;
     }
 };

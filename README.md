@@ -121,6 +121,7 @@ This repository consists of leetcode problems solution.
 | [0485-max-consecutive-ones](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0560-subarray-sum-equals-k) |
 | [0874-walking-robot-simulation](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0874-walking-robot-simulation) |
+| [1260-shift-2d-grid](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1260-shift-2d-grid) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -280,6 +281,7 @@ This repository consists of leetcode problems solution.
 | [0048-rotate-image](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0073-set-matrix-zeroes) |
+| [1260-shift-2d-grid](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1260-shift-2d-grid) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -307,6 +309,7 @@ This repository consists of leetcode problems solution.
 | [0054-spiral-matrix](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0874-walking-robot-simulation) |
+| [1260-shift-2d-grid](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1260-shift-2d-grid) |
 | [2069-walking-robot-simulation-ii](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2149-rearrange-array-elements-by-sign) |

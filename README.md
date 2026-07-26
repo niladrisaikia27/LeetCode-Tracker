@@ -16,6 +16,7 @@ This repository consists of leetcode problems solution.
 | [0048-rotate-image](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0788-rotated-digits) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -120,6 +121,7 @@ This repository consists of leetcode problems solution.
 | [0283-move-zeroes](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0628-maximum-product-of-three-numbers) |
 | [0874-walking-robot-simulation](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0874-walking-robot-simulation) |
 | [1260-shift-2d-grid](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1260-shift-2d-grid) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -208,6 +210,7 @@ This repository consists of leetcode problems solution.
 | [0088-merge-sorted-array](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0229-majority-element-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0628-maximum-product-of-three-numbers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |

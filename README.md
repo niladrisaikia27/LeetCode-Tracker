@@ -388,4 +388,12 @@ This repository consists of leetcode problems solution.
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

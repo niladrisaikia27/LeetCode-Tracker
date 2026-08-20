@@ -152,6 +152,7 @@ This repository consists of leetcode problems solution.
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3225-maximum-score-from-grid-operations](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3225-maximum-score-from-grid-operations) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -320,6 +321,7 @@ This repository consists of leetcode problems solution.
 | [2149-rearrange-array-elements-by-sign](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2751-robot-collisions](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3838-weighted-word-mapping](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/3838-weighted-word-mapping) |
 ## String Matching

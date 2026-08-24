@@ -398,4 +398,8 @@ This repository consists of leetcode problems solution.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0075-sort-colors) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->

@@ -401,5 +401,6 @@ This repository consists of leetcode problems solution.
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/niladrisaikia27/LeetCode-Tracker/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->

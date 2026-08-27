@@ -1,15 +1,8 @@
 # Write your MySQL query statement below
-WITH calculateTime AS (
-    SELECT machine_id, process_id, activity_type, timestamp,
-    LAG(timestamp) OVER(PARTITION BY machine_id, process_id ORDER BY activity_type) AS start
-    FROM Activity
-),
-totalTime AS (
-    SELECT machine_id, process_id, activity_type, timestamp, start,
-    (timestamp - start) AS total
-    FROM calculateTime
-    WHERE activity_type = 'end' 
-)
-SELECT machine_id, ROUND(AVG(total), 3) AS processing_time
-FROM totalTime
-GROUP BY machine_id;
+SELECT s.machine_id, ROUND(AVG(e.timestamp - s.timestamp), 3) AS processing_time
+FROM Activity s
+INNER JOIN Activity e 
+ON s.machine_id = e.machine_id AND s.process_id = e.process_id
+WHERE s.activity_type = 'start'
+AND e.activity_type = 'end'
+GROUP BY s.machine_id;

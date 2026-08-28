@@ -1,4 +1,4 @@
 # Write your MySQL query statement below
-SELECT * FROM Cinema
+SELECT id, movie, description, rating FROM Cinema
 WHERE MOD(id, 2)= 1 AND description != 'boring'
 ORDER BY rating DESC;

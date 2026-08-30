@@ -4,5 +4,5 @@ WHERE primary_flag = 'Y'
     OR employee_id IN(
         SELECT employee_id FROM Employee
         GROUP BY employee_id
-        Having COUNT(*) = 1 AND primary_flag = 'N'
+        Having COUNT(department_id) = 1
     );
